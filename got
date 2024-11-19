@@ -1,1 +1,2 @@
-# hello world
+five = 4
+del (five)
